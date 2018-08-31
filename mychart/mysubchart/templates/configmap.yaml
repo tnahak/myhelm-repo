@@ -1,0 +1,12 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-configmap2
+data:
+  dessert: |-
+    {{- range .Values.dessert }}
+    - {{ . }}
+    {{- end }}
+  chartname: {{ .Values.name }}
+  salad: {{ .Values.global.salad }}
