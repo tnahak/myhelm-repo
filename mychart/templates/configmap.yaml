@@ -35,4 +35,3 @@ data:
   {{- range .Values.dessert }}
   - {{ . }}
   {{- end }}
-  salad: {{ .Values.global.salad }}
