@@ -4,7 +4,7 @@ entries:
   - apiVersion: v1
     appVersion: "1.0"
     created: 2018-08-31T16:53:45.222431696+05:30
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes tes123
     digest: e7fd09dd361832c51473087ed06dfd932baad5ffbb213eea79fad0fab1201fe9
     name: mychart
     urls:
