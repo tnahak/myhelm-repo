@@ -3,3 +3,4 @@ appVersion: "1.0"
 description: A Helm hello app chart for Kubernetes
 name: helloapp
 version: 0.1.0
+icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png

@@ -3,9 +3,10 @@ entries:
   helloapp:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-09T10:33:08.730011932+05:30
+    created: 2018-10-09T11:41:24.42507683+05:30
     description: A Helm hello app chart for Kubernetes
-    digest: adecea813d73381e7fb82b109edfa3aafa532a4c65cb33f181747d44fe8c32b7
+    digest: 8d238872bd096e9db1a9b30d01d8f8707fc9ba4df7e9a454e46268cefa9f3e05
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
     name: helloapp
     urls:
     - helloapp-0.1.0.tgz
@@ -13,11 +14,12 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-09T10:33:08.730540821+05:30
+    created: 2018-10-09T11:41:24.425295194+05:30
     description: A Helm chart for Kubernetes
-    digest: eb21e83bcbdfe2a22ff19500e9e5dea6308f41790c2ddaf4c96fc85919daa784
+    digest: 5b9ef1076cf8b52c4d47e26d73c6822f861c5cb45adabbd199ec69ccc6e13f9a
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
     name: mychart
     urls:
     - mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-09T10:33:08.72934142+05:30
+generated: 2018-10-09T11:41:24.424718416+05:30
