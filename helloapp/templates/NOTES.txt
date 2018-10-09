@@ -1,0 +1,8 @@
+Thank you for installing {{ .Chart.Name }}.
+
+Your release name is {{ .Release.Name }}
+
+Learn More about the releases, tyr:
+
+  $ helm status {{ .Release.Name }}
+  $ helm get {{ .Release.Name }}
